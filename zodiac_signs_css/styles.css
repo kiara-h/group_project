@@ -1,0 +1,22 @@
+#nav {
+            font-family: impact, fantasy;
+            font-size: 2em;
+            color:lightblue;
+}
+
+h1{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 3em;
+}
+li {
+    text-align: center;
+    font-family: bradley hand, cursive;
+    font-style:italic;
+}
+#aries {
+        background-image: url('../images/test.jpg');
+        background-position:center;
+        background-repeat:no-repeat;
+        background-size:cover;
+}

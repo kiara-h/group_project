@@ -8,15 +8,23 @@ h1{
     font-family: impact, fantasy;
     text-align: center;
     font-size: 3em;
+    color:white;
 }
-li {
+li,p {
     text-align: center;
     font-family: bradley hand, cursive;
     font-style:italic;
+    color:lightgrey;
 }
-#zodiac {
+.title {
         background-image: url('../images/test.jpg');
         background-position:center;
         background-repeat:no-repeat;
         background-size:cover;
+        color:white;
 }
+#aries {
+        background-image: url('../images/wheel2.jpg');
+        background-position:center;
+        background-repeat:no-repeat;
+        background-size:cover;

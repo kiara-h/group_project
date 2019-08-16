@@ -3,3 +3,42 @@
             font-size: 2em;
             color:lightblue;
 }
+body {
+        overflow-x:hidden;
+        text-align: center;
+        background-image: url("../images/test.jpg");
+        background-size: cover;
+        background-repeat:no-repeat;
+}
+
+.container1{
+  width: 700px;
+  margin: auto;
+  padding-top: 5%;
+}
+
+#zodiacHeader {
+  padding-top: 28%;
+}
+
+h1{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 3em;
+    color:white;
+}
+
+h2 {
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 3em;
+    color:lightblue;
+}
+p {
+      font-family: impact, fantasy;
+      color:lightgrey;
+}
+
+.starter-template {
+  padding-top: 10%;
+}

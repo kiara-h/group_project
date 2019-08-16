@@ -10,6 +10,13 @@ h1{
     font-size: 3em;
     color:white;
 }
+
+h2{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 3em;
+    color:lightgrey;
+}
 li,p {
     text-align: center;
     font-family: bradley hand, cursive;
@@ -23,7 +30,7 @@ li,p {
         background-size:cover;
         color:white;
 }
-#aries {
+.zodiac {
         background-image: url('../images/wheel2.jpg');
         background-position:center;
         background-repeat:no-repeat;

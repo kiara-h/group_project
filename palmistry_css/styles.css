@@ -1,0 +1,12 @@
+#nav {
+            font-family: impact, fantasy;
+            font-size: 2em;
+            color:lightblue;
+}
+
+h1, h2, h3, h4{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 3em;
+    color:lightpink;
+}
